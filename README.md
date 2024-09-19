@@ -7,7 +7,7 @@ Projects I use daily:
 <br>
 [Vesktop!](https://github.com/Vencord/Vesktop)
 <br>
-[Vendroid Enhanced!](https://github.com/VendroidEnhanced) (replacing [Bunny](https://github.com/pyoncord/Bunny) after EOL.)
+[Vendroid Enhanced](https://github.com/VendroidEnhanced)/[New Revenge!](https://github.com/revenge-mod) (replacing [Bunny](https://github.com/pyoncord/Bunny) after EOL.)
 <br>
 [Zen Browser!](https://github.com/zen-browser/desktop) (eventually replacing [Brave Browser](https://github.com/brave/brave-browser))
 
