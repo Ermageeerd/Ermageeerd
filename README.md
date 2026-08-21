@@ -9,7 +9,7 @@ Projects I use daily:
 <br>
 [Vendroid Enhanced](https://github.com/VendroidEnhanced)/[New Revenge!](https://github.com/revenge-mod) (replacing [Bunny](https://github.com/pyoncord/Bunny) after EOL.)
 <br>
-[Zen Browser!](https://github.com/zen-browser/desktop) (eventually replacing [Brave Browser](https://github.com/brave/brave-browser))
+[Waterfox!](https://github.com/BrowserWorks/waterfox)
 
 <!---
 Ermageeerd/Ermageeerd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
